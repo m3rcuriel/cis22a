@@ -62,6 +62,7 @@ int main() {
             std::string id = split.at(ID);
             for(std::vector<int>::size_type i = ASSIGN_START; i <= ASSIGN_END; i++)
                 assignments.push_back(atoi(split.at(i).c_str()));
+
             int asstotal = total(assignments);
             asstotal -= lowest(assignments);
 
@@ -88,6 +89,7 @@ int main() {
         split.clear();
         assignments.clear();
     }
+
     summary << "The average total points = " << average << std::endl;
     summary << "The average percent total = " << std::fixed << std::setprecision(0) << round(average / 4.) << std::endl;
     summary << std::setfill('0') << std::right;

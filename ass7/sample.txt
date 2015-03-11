@@ -1,0 +1,254 @@
+Harry, it is your turn
+* You rolled 1 and 2. That's 0
+** Points for turn = 0
+*** Total points = 0
+
+Mary, it is your turn
+* You rolled 2 and 2. That's 4
+* You rolled 3 and 3. That's 6
+* You rolled 1 and 4. That's 0
+** Points for turn = 0
+*** Total points = 10
+
+Larry, it is your turn
+* You rolled 1 and 4. That's 0
+** Points for turn = 0
+*** Total points = 0
+
+Harry, it is your turn
+* You rolled 4 and 2. That's 6
+** Points for turn = 6
+*** Total points = 6
+
+Mary, it is your turn
+* You rolled 4 and 1. That's 0
+** Points for turn = 0
+*** Total points = 10
+
+Larry, it is your turn
+* You rolled 5 and 5. That's 10
+* You rolled 3 and 2. That's 5
+* You rolled 6 and 6. That's 12
+* You rolled 3 and 6. That's 9
+* You rolled 6 and 2. That's 8
+* You rolled 5 and 5. That's 10
+* You rolled 5 and 4. That's 9
+* You rolled 2 and 4. That's 6
+* You rolled 6 and 1. That's 0
+** Points for turn = 0
+*** Total points = 69
+
+Harry, it is your turn
+* You rolled 5 and 2. That's 7
+** Points for turn = 7
+*** Total points = 13
+
+Mary, it is your turn
+* You rolled 3 and 4. That's 7
+* You rolled 5 and 4. That's 9
+* You rolled 3 and 2. That's 5
+** Points for turn = 21
+*** Total points = 31
+
+Larry, it is your turn
+* You rolled 2 and 1. That's 0
+** Points for turn = 0
+*** Total points = 69
+
+Harry, it is your turn
+* You rolled 2 and 5. That's 7
+** Points for turn = 7
+*** Total points = 20
+
+Mary, it is your turn
+* You rolled 2 and 6. That's 8
+* You rolled 6 and 2. That's 8
+* You rolled 1 and 2. That's 0
+** Points for turn = 0
+*** Total points = 47
+
+Larry, it is your turn
+* You rolled 6 and 4. That's 10
+* You rolled 6 and 5. That's 11
+* You rolled 1 and 3. That's 0
+** Points for turn = 0
+*** Total points = 90
+
+Harry, it is your turn
+* You rolled 5 and 3. That's 8
+** Points for turn = 8
+*** Total points = 28
+
+Mary, it is your turn
+* You rolled 6 and 4. That's 10
+* You rolled 1 and 4. That's 0
+** Points for turn = 0
+*** Total points = 57
+
+Larry, it is your turn
+* You rolled 1 and 1. That's SKUNK
+** Points for turn = -1
+*** Total points = 0
+
+Harry, it is your turn
+* You rolled 5 and 3. That's 8
+** Points for turn = 8
+*** Total points = 36
+
+Mary, it is your turn
+* You rolled 2 and 6. That's 8
+* You rolled 1 and 5. That's 0
+** Points for turn = 0
+*** Total points = 65
+
+Larry, it is your turn
+* You rolled 4 and 2. That's 6
+* You rolled 5 and 4. That's 9
+* You rolled 3 and 3. That's 6
+* You rolled 3 and 1. That's 0
+** Points for turn = 0
+*** Total points = 21
+
+Harry, it is your turn
+* You rolled 6 and 6. That's 12
+** Points for turn = 12
+*** Total points = 48
+
+Mary, it is your turn
+* You rolled 2 and 6. That's 8
+* You rolled 1 and 3. That's 0
+** Points for turn = 0
+*** Total points = 73
+
+Larry, it is your turn
+* You rolled 5 and 4. That's 9
+* You rolled 6 and 3. That's 9
+* You rolled 2 and 5. That's 7
+* You rolled 3 and 4. That's 7
+* You rolled 1 and 6. That's 0
+** Points for turn = 0
+*** Total points = 53
+
+Harry, it is your turn
+* You rolled 2 and 6. That's 8
+** Points for turn = 8
+*** Total points = 56
+
+Mary, it is your turn
+* You rolled 5 and 1. That's 0
+** Points for turn = 0
+*** Total points = 73
+
+Larry, it is your turn
+* You rolled 4 and 1. That's 0
+** Points for turn = 0
+*** Total points = 53
+
+Harry, it is your turn
+* You rolled 2 and 4. That's 6
+** Points for turn = 6
+*** Total points = 62
+
+Mary, it is your turn
+* You rolled 2 and 1. That's 0
+** Points for turn = 0
+*** Total points = 73
+
+Larry, it is your turn
+* You rolled 2 and 5. That's 7
+* You rolled 4 and 1. That's 0
+** Points for turn = 0
+*** Total points = 60
+
+Harry, it is your turn
+* You rolled 2 and 2. That's 4
+** Points for turn = 4
+*** Total points = 66
+
+Mary, it is your turn
+* You rolled 6 and 1. That's 0
+** Points for turn = 0
+*** Total points = 73
+
+Larry, it is your turn
+* You rolled 6 and 1. That's 0
+** Points for turn = 0
+*** Total points = 60
+
+Harry, it is your turn
+* You rolled 3 and 2. That's 5
+** Points for turn = 5
+*** Total points = 71
+
+Mary, it is your turn
+* You rolled 5 and 4. That's 9
+* You rolled 1 and 2. That's 0
+** Points for turn = 0
+*** Total points = 82
+
+Larry, it is your turn
+* You rolled 5 and 3. That's 8
+* You rolled 6 and 6. That's 12
+* You rolled 3 and 1. That's 0
+** Points for turn = 0
+*** Total points = 80
+
+Harry, it is your turn
+* You rolled 4 and 6. That's 10
+** Points for turn = 10
+*** Total points = 81
+
+Mary, it is your turn
+* You rolled 4 and 1. That's 0
+** Points for turn = 0
+*** Total points = 82
+
+Larry, it is your turn
+* You rolled 1 and 1. That's SKUNK
+** Points for turn = -1
+*** Total points = 0
+
+Harry, it is your turn
+* You rolled 2 and 2. That's 4
+** Points for turn = 4
+*** Total points = 85
+
+Mary, it is your turn
+* You rolled 5 and 6. That's 11
+* You rolled 1 and 2. That's 0
+** Points for turn = 0
+*** Total points = 93
+
+Larry, it is your turn
+* You rolled 4 and 4. That's 8
+* You rolled 3 and 1. That's 0
+** Points for turn = 0
+*** Total points = 8
+
+Harry, it is your turn
+* You rolled 5 and 6. That's 11
+** Points for turn = 11
+*** Total points = 96
+
+Mary, it is your turn
+* You rolled 5 and 1. That's 0
+** Points for turn = 0
+*** Total points = 93
+
+Larry, it is your turn
+* You rolled 2 and 4. That's 6
+* You rolled 4 and 4. That's 8
+* You rolled 4 and 1. That's 0
+** Points for turn = 0
+*** Total points = 22
+
+Harry, it is your turn
+* You rolled 1 and 3. That's 0
+** Points for turn = 0
+*** Total points = 96
+
+Mary, it is your turn
+* You rolled 4 and 2. That's 6
+* You rolled 4 and 2. That's 6
+** Points for turn = 12
+Mary won the game with 105 points
